@@ -1,0 +1,6 @@
+Sources:
+https://danielilett.com/2019-08-20-unity-tips-2-coroutines/
+
+https://www.youtube.com/watch?v=kUP6OK36nrM
+
+https://www.youtube.com/watch?v=_nRzoTzeyxU
